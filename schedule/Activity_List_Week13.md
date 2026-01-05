@@ -1,6 +1,7 @@
 # Activity List – Week 13
 
 ## Project: AI-Based To-Do List Assistant
+These activities reflect the full project lifecycle, starting from requirement analysis and data preparation, followed by AI model development, system integration, testing and final submission.
 
 | Activity ID | Activity Name | Duration (Days) |
 |------------|---------------|-----------------|
