@@ -4,4 +4,4 @@ The Model Training phase has the highest concentration of human cost due to inte
 
 **2. Scope Refinement and Cost Control on Model Development**
 
-Given that data preparation and model training contribute significantly to overall expenditure, the project scope should be refined to focus only on essential model features required to meet project objectives. Optional enhancements or advanced model tuning can be deferred to a later phase if time or cost constraints persist. This corrective action helps contain costs within the allocated RM 1,005 budget while still delivering a functional and evaluable AI system.hihi
+Given that data preparation and model training contribute significantly to overall expenditure, the project scope should be refined to focus only on essential model features required to meet project objectives. Optional enhancements or advanced model tuning can be deferred to a later phase if time or cost constraints persist. This corrective action helps contain costs within the allocated RM 1,005 budget while still delivering a functional and evaluable AI system.
